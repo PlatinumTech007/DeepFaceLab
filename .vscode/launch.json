@@ -9,7 +9,7 @@
             "name": "DFL train TEST",
             "subProcess": true,
             "justMyCode": true,
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${env:DFL_ROOT}\\main.py",
             "python": "${env:PYTHONEXECUTABLE}",
